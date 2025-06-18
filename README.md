@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amanpandey94158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IzkVZ0ubRG8aMT3Z3_WzrmzL34W4g9Hv/view?usp=drive_link](https://drive.google.com/file/d/1IzkVZ0ubRG8aMT3Z3_WzrmzL34W4g9Hv/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here]([https://i-aman-bucket.s3.us-east-1.amazonaws.com/Aman_DE_1.0.pdf])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
