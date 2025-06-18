@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandey-i" alt="pandey-i" /></a> </p>
 
-- 🔭 I’m currently working on [Water footprint Calculator](https://github.com/pandey-i/Water-footprint_Frontend.git)
+- 🔭 I’m currently working on [Data Warehouse and Analytics Project]([https://github.com/pandey-i/SQL-Data-Warehouse.git])
 
 - 🌱 I’m currently learning **Data Engineering Couse**
 
