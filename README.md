@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey-i&label=Profile%20views&color=0e75b6&style=flat" alt="pandey-i" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [[Data Warehouse and Analytics Project]([https://github.com/pandey-i/SQL-Data-Warehouse.git])]
 
-- 🌱 I’m currently learning **Data Engineering Couse**
+- 🌱 I’m currently learning **Data Engineering Course**
 
 - 💬 Ask me about **react**
 
